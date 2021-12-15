@@ -27,7 +27,7 @@ li {
 }
 
 #background-video {
-    width: 150vw;
+    width: 100vw;
     height: 75vh;
     object-fit: cover;
     position:absolute;
