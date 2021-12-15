@@ -38,11 +38,11 @@ li {
     z-index: -.5;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 800px) {
     #background-video {display: none;}
     header {
         background:
-        url("https://youtube.com/embed/tZYfYvTLu40") no-repeat;
+        url("https://youtube.com/embed/tZYfYvTLu40") repeat;
         background-size: cover;
     }
 }
